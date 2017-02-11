@@ -8,12 +8,14 @@
     this.thruster = false;
     this.turnRight = false;
     this.turnLeft = false;
+    this.thrusterPowerMax = 60;
+    this.thrusterPower = 0;
 
 	Phaser.Sprite.call(this, game, x, y, sprite);
    	this.game.physics.arcade.enableBody(this);
     //this.game.physics.arcade.enable(sprite);
     this.body.drag.set(70);
-    this.body.maxVelocity.set(50);
+    this.body.maxVelocity.set(300);
     this.anchor.setTo(0.5,0.5);
     //sprite.anchor.set(0.5);
 	game.add.existing(this);
@@ -48,7 +50,7 @@ Player.prototype.update= function (){
 
         if (this.thruster)
         {
-            this.game.physics.arcade.accelerationFromRotation(sprite.rotation, 30, sprite.body.acceleration);
+            this.game.physics.arcade.accelerationFromRotation(sprite.rotation, this.thrusterPower, sprite.body.acceleration);
         }
         else
         {

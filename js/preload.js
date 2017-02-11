@@ -36,6 +36,9 @@ GAME.PreloadState.prototype= {
    		game.load.spritesheet('buttondiagonal', 'assets/buttons/button-diagonal.png',64,64);
    		game.load.spritesheet('buttona', 'assets/buttons/button-round-a.png',96,96);
    		game.load.spritesheet('buttonb', 'assets/buttons/button-round-b.png',96,96);
+   		game.load.image('slider_path', 'assets/buttons/slider-path.png');
+    	game.load.image('slider_button', 'assets/buttons/slider-button.png');
+
 	},
 
 	create:function (){

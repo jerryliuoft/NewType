@@ -13,3 +13,9 @@ add onscreen control
 * turn left/ right
 * thruster control
 * 
+
+
+
+set bound to camera
+color in boundry
+calculate image position within bound
