@@ -12,12 +12,12 @@
     this.thrusterPower = 0;
 
 	Phaser.Sprite.call(this, game, x, y, sprite);
-   	this.game.physics.arcade.enableBody(this);
-    //this.game.physics.arcade.enable(sprite);
+   	this.game.physics.arcade.enable(this);
+    this.body.maxVelocity.set(40);
     this.body.drag.set(70);
-    this.body.maxVelocity.set(300);
-    this.anchor.setTo(0.5,0.5);
-    //sprite.anchor.set(0.5);
+    this.anchor.set(0.5);
+    this.body.collideWorldBounds = true;
+
 	game.add.existing(this);
 	this.game = game;
 
@@ -27,10 +27,8 @@
 
     //  The bullet will be automatically killed when it leaves the world bounds
     weapon.bulletKillType = Phaser.Weapon.KILL_WORLD_BOUNDS;
-
     //  The speed at which the bullet is fired
     weapon.bulletSpeed = 600;
-
     //  Speed-up the rate of fire, allowing them to shoot 1 bullet every 60ms
     weapon.fireRate = 100;
 
@@ -64,14 +62,14 @@ Player.prototype.update= function (){
         else if (this.turnRight)
         {
             sprite.body.angularVelocity = 300;
-        }
-        else
-        {
+            //this.game.camera.x += 4;
+            //this.game.camera.unfollow();
+        }else{
             sprite.body.angularVelocity = 0;
         }
-    
-        if (this.thruster)
+
+        if (! this.thruster)
         {
-            this.weapon.fire();
+            //this.weapon.fire();
         }
 }

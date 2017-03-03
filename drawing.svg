@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="480"
+   height="640"
+   viewBox="0 0 127 169.33333"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="drawing.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient4574"
+       inkscape:collect="always">
+      <stop
+         id="stop4568"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0.45124337"
+         id="stop4570" />
+      <stop
+         id="stop4572"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5746">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop5742" />
+      <stop
+         id="stop5750"
+         offset="0.6952799"
+         style="stop-color:#00ff00;stop-opacity:0.51372549;" />
+      <stop
+         style="stop-color:#00ff00;stop-opacity:0;"
+         offset="1"
+         id="stop5744" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5740">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop5734" />
+      <stop
+         id="stop5736"
+         offset="0.45124337"
+         style="stop-color:#ffff00;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffff00;stop-opacity:0"
+         offset="1"
+         id="stop5738" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5732">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop5726" />
+      <stop
+         id="stop5728"
+         offset="0.47654247"
+         style="stop-color:#28c3ff;stop-opacity:0.88627452" />
+      <stop
+         style="stop-color:#15aaff;stop-opacity:0"
+         offset="1"
+         id="stop5730" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient31-3-7-5"
+       inkscape:collect="always">
+      <stop
+         id="stop4512"
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffecff;stop-opacity:0.88627451;"
+         offset="0.25778952"
+         id="stop5674" />
+      <stop
+         id="stop4514"
+         offset="1"
+         style="stop-color:#ff5dff;stop-opacity:0" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5740"
+       id="radialGradient5672"
+       cx="113.22814"
+       cy="134.29869"
+       fx="113.22814"
+       fy="134.29869"
+       r="0.52916664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(16.480497,-3.5991034)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient31-3-7-5"
+       id="radialGradient5672-6"
+       cx="113.22814"
+       cy="134.29869"
+       fx="113.22814"
+       fy="134.29869"
+       r="0.52916664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(18.597289,-3.5991066)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5732"
+       id="radialGradient5672-5"
+       cx="113.22814"
+       cy="134.29869"
+       fx="113.22814"
+       fy="134.29869"
+       r="0.52916664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.9999866,17.53895,-3.5973031)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5746"
+       id="radialGradient5748"
+       cx="113.90793"
+       cy="125.91339"
+       fx="113.90793"
+       fy="125.91339"
+       r="0.52916664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.0203123,1.0112716,-0.99118886,0.01990835,255.37387,12.990236)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4574"
+       id="radialGradient5672-9"
+       cx="113.22814"
+       cy="134.29869"
+       fx="113.22814"
+       fy="134.29869"
+       r="0.52916664"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(15.422178,-3.5991066)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.627417"
+     inkscape:cx="484.20758"
+     inkscape:cy="623.99938"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1916"
+     inkscape:window-height="1680"
+     inkscape:window-x="139"
+     inkscape:window-y="322"
+     inkscape:window-maximized="0"
+     units="px"
+     inkscape:pagecheckerboard="false"
+     gridtolerance="10"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3680"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-127.66665)">
+    <rect
+       style="fill:#333333;stroke-width:0.36300531"
+       id="rect3682-7"
+       width="127"
+       height="105.83333"
+       x="-1.25e-006"
+       y="127.66666" />
+    <image
+       width="5.5562501"
+       height="7.4083333"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAcCAYAAACOGPReAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJ bWFnZVJlYWR5ccllPAAAAeVJREFUeNpiZMAN/iOxGRlIALgU/3/rYQRmnPj+hMH74CuSDGbCJQEy DIQtOGUYcr1U0F1OnqE7uPnghnt8/cRAFe+DCCtjZbjAsbN3GcgNY7CBQO/+32ovBjIYhQbhFUfP /ycUFIxYDIR7FxSe6EBo+1kGRkZGvK5lRLcV5mVjcUa44aDwPfsS1XH4ggNs6MLpTWDOyevfGcw1 OcH0haOrMAwHgc9tO8E0b5U7XAxbkvsPAqCwysqrBNMgAApXoGVwNjDd/v9fWfkfDoBskBgsrJF9 DHYp0DAwh/nOaoa/KqFgNrJLratXMxxtDcUIgqNuYQzvzu8EJztkFzOiJx9QWIHY1TyfUdIsyEDh 3CoGZXM3sNj1OZMZPh9YCzb4u5UCA+exBwzbjs0FG8yInC5BMT952x0GoHcYHEua4YZy+qQx5Hmr MtzSDGJg01WHi/+6fJNB7fo6hkn6EN+BDOfyTUfkKFBkwbwOSkrl07vBtu/vqWX4vmUWWFwzJRfu 0k3xSQw7ejrhFoAMdGnowp9NKQE08T7NIorqSYp2iZ/a2ZQmBQoLmsB/uGFfEUWfxT8gIUp80UeX Qpoq1QkLLgnkGgAcGSTUTTizKXKVAqtZiQU4XQqLJFDCnkxiY4KRFs0egAADAHTninCeGH44AAAA AElFTkSuQmCC "
+       id="image3805"
+       x="139.96458"
+       y="222.91666" />
+    <g
+       id="g3868">
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3699-5"
+         d="m 134.9375,232.44165 1.32291,-1.05833 1.98438,-1e-5 1.98437,1e-5 1.32292,1.32291 1e-5,2.64584 h -6.61459 z"
+         style="fill:#ff0066;stroke-width:0.0491885" />
+      <rect
+         y="230.87239"
+         x="133.63281"
+         height="5.2552166"
+         width="1.8767157"
+         id="rect3701-7-5"
+         style="fill:#ffd5e5;stroke:#ff2a7f;stroke-width:0.23151845" />
+      <rect
+         y="232.0443"
+         x="137.31876"
+         height="2.3812449"
+         width="1.8520867"
+         id="rect3721-5"
+         style="fill:#55ddff;stroke-width:0.33467487" />
+      <rect
+         y="230.85416"
+         x="140.99829"
+         height="5.2552166"
+         width="1.8767157"
+         id="rect3701-7-5-9"
+         style="fill:#ffd5e5;stroke:#ff2a7f;stroke-width:0.23151845" />
+    </g>
+    <g
+       transform="rotate(90,140.89064,227.52864)"
+       id="g3868-2"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3699-5-6"
+         d="m 134.9375,232.44165 1.32291,-1.05833 1.98438,-1e-5 1.98437,1e-5 1.32292,1.32291 1e-5,2.64584 h -6.61459 z"
+         style="fill:#ff0066;stroke-width:0.0491885" />
+      <rect
+         y="230.87239"
+         x="133.63281"
+         height="5.2552166"
+         width="1.8767157"
+         id="rect3701-7-5-91"
+         style="fill:#ffd5e5;stroke:#ff2a7f;stroke-width:0.23151845" />
+      <rect
+         y="232.0443"
+         x="137.31876"
+         height="2.3812449"
+         width="1.8520867"
+         id="rect3721-5-7"
+         style="fill:#55ddff;stroke-width:0.33467487" />
+      <rect
+         y="230.85416"
+         x="140.99829"
+         height="5.2552166"
+         width="1.8767157"
+         id="rect3701-7-5-9-1"
+         style="fill:#ffd5e5;stroke:#ff2a7f;stroke-width:0.23151845" />
+    </g>
+    <circle
+       style="fill:#ff00ff;stroke:none;stroke-width:0.02645833"
+       id="path3897"
+       cx="128.19638"
+       cy="128.205"
+       r="0.13229166"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:url(#radialGradient5672);fill-opacity:1;stroke:none;stroke-width:0.10583339"
+       id="path3897-7"
+       cx="129.70876"
+       cy="130.6996"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Jerry\Documents\GitHub\NewType\assets\stars.png"
+       r="0.52916664" />
+    <circle
+       style="fill:#ffcc00;stroke:none;stroke-width:0.02645833"
+       id="path3897-74"
+       cx="128.45979"
+       cy="128.20418"
+       r="0.13229166"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#aad400;stroke:none;stroke-width:0.02645833"
+       id="path3897-1"
+       cx="128.98599"
+       cy="128.20706"
+       r="0.13229166"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#ff0000;stroke:none;stroke-width:0.02645833"
+       id="path3897-7-3"
+       cx="128.72343"
+       cy="128.20633"
+       r="0.13229166"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#5555ff;stroke:none;stroke-width:0.02645833"
+       id="path3897-74-9"
+       cx="129.25046"
+       cy="128.20418"
+       r="0.13229166"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="opacity:1;fill:url(#radialGradient5748);fill-opacity:1;stroke:none;stroke-width:0.10583339"
+       id="path3897-7-5"
+       cx="132.88376"
+       cy="130.6996"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Jerry\Documents\GitHub\NewType\assets\stars.png"
+       r="0.52916664" />
+    <circle
+       style="opacity:1;fill:url(#radialGradient5672-6);fill-opacity:1;stroke:none;stroke-width:0.10583339"
+       id="path3897-7-52"
+       cx="131.82542"
+       cy="130.6996"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Jerry\Documents\GitHub\NewType\assets\stars.png"
+       r="0.52916664" />
+    <circle
+       style="opacity:1;fill:url(#radialGradient5672-5);fill-opacity:1;stroke:none;stroke-width:0.10583339"
+       id="path3897-7-0"
+       cx="130.76709"
+       cy="130.6996"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Jerry\Documents\GitHub\NewType\assets\stars.png"
+       r="0.52916664" />
+    <g
+       id="g5832">
+      <rect
+         y="233.50002"
+         x="0"
+         height="63.499981"
+         width="127"
+         id="rect3682"
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.28118268" />
+      <rect
+         ry="0"
+         y="233.49998"
+         x="0"
+         height="2.6458333"
+         width="127"
+         id="rect5752"
+         style="opacity:0.99983532;fill:#666666;fill-opacity:0;stroke:none;stroke-width:0.27326047" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="rect5795"
+         d="m 0,233.49998 2.6458333,-0.79375 H 124.35417 L 127,233.49998 v 1.05833 H -4.4927083e-6 Z"
+         style="opacity:0.99983532;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.07943708" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="rect5795-6"
+         d="m 0,233.49998 2.6458333,-0.79375 H 124.35417 l 2.64583,0.79375 0,0 H 0 Z"
+         style="opacity:0.7112;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07943708" />
+    </g>
+    <g
+       transform="translate(-87.312499,142.875)"
+       id="g5832-6"
+       inkscape:export-filename="C:\Users\Jerry\Documents\GitHub\NewType\assets\control_panel.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <rect
+         y="233.50002"
+         x="0"
+         height="63.499981"
+         width="127"
+         id="rect3682-6"
+         style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.28118268" />
+      <rect
+         ry="0"
+         y="233.49998"
+         x="0"
+         height="2.6458333"
+         width="127"
+         id="rect5752-9"
+         style="opacity:0.99983532;fill:#666666;fill-opacity:0;stroke:none;stroke-width:0.27326047" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="rect5795-64"
+         d="m 0,233.49998 2.6458333,-0.79375 H 124.35417 L 127,233.49998 v 1.05833 H -4.4927083e-6 Z"
+         style="opacity:0.99983532;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.07943708" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="rect5795-6-7"
+         d="m 0,233.49998 2.6458333,-0.79375 H 124.35417 L 127,233.49998 v 0 z"
+         style="opacity:0.71120001;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.07943708" />
+    </g>
+    <circle
+       style="opacity:1;fill:url(#radialGradient5672-9);fill-opacity:1;stroke:none;stroke-width:0.10583339"
+       id="path3897-7-56"
+       cx="128.65042"
+       cy="130.6996"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"
+       inkscape:export-filename="C:\Users\Jerry\Documents\GitHub\NewType\assets\stars.png"
+       r="0.52916664" />
+  </g>
+</svg>

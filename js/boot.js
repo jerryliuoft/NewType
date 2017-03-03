@@ -19,7 +19,7 @@ GAME.BootState.prototype = {
         this.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
         this.scale.pageAlignHorizontally = true;
         this.scale.pageAlignVertically = true;
-        this.game.world.setBounds(0, 0, 1920, 1920);
+        this.game.world.setBounds(0, 0, 1000, 1000);
 
 
         this.state.start('Preload');

@@ -13,12 +13,14 @@
 	<script src="js/player.js"></script>
 	<script src="js/preload.js"></script>
 	<script src="js/ui.js"></script>
+	<script src="js/starfield.js"></script>
+	<script src="js/Plugins/DebugArcadePhysics.js"></script>
 
 </head>
 <body>
 <script>
 (function() {
-    var game = new Phaser.Game(320, 320, Phaser.AUTO, '');
+    var game = new Phaser.Game(480, 640, Phaser.AUTO, '');
     game.state.add('Preload', GAME.PreloadState);
     game.state.add('Game', GAME.GameState);
     game.state.add('Boot', GAME.BootState);

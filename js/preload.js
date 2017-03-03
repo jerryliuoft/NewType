@@ -39,6 +39,9 @@ GAME.PreloadState.prototype= {
    		game.load.image('slider_path', 'assets/buttons/slider-path.png');
     	game.load.image('slider_button', 'assets/buttons/slider-button.png');
 
+    	game.load.spritesheet('star', 'assets/stars.png',4,4);
+    	game.load.image('control_panel', 'assets/control_panel.png')
+
 	},
 
 	create:function (){
