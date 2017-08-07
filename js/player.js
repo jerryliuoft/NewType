@@ -14,7 +14,7 @@
 	Phaser.Sprite.call(this, game, x, y, sprite);
    	this.game.physics.arcade.enable(this);
     this.body.maxVelocity.set(40);
-    this.body.drag.set(70);
+    this.body.drag.set(5);
     this.anchor.set(0.5);
     this.body.collideWorldBounds = true;
 

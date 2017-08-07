@@ -101,8 +101,6 @@ var StarFields = {
   			star.x = star.x + (this.dx * this.stars[n].speed * dt);
   			star.y = star.y + (this.dy * this.stars[n].speed * dt);
   			this.game.world.wrap(star);
-  			//if ((star.x < 0) || (star.y < 0) || (star.x > this.width) || (star.y > this.height))
-  				//this.repositionStar(star);
   		}
   	}
   //=============================================================================
